@@ -188,8 +188,8 @@ li {
 }
 
 .check {
-  width: 20px;
-  height: 20px;
+  min-width: 20px;
+  min-height: 20px;
   border-radius: 50%;
   border: 2px solid #9ca3af;
   margin-right: 8px;
